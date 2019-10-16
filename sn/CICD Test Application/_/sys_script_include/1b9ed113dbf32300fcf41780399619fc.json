@@ -1,0 +1,24 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "x_11413_cicd_test.tst",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "tst",
+  "script": {
+    "____see": "sn/CICD Test Application/Script Include/active_true/x_11413_cicd_test.tst.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-02-28 13:45:57",
+  "sys_id": "1b9ed113dbf32300fcf41780399619fc",
+  "sys_mod_count": 5,
+  "sys_name": "tst",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_script_include_1b9ed113dbf32300fcf41780399619fc",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-03-28 14:44:35"
+}
