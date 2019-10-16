@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "description": null,
+  "input_filter": null,
+  "name": "CICD Suite ",
+  "parent": null,
+  "sys_class_name": "sys_atf_test_suite",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-02-28 14:41:48",
+  "sys_id": "2d8b65dbdbf32300fcf41780399619b1",
+  "sys_mod_count": 0,
+  "sys_name": "CICD Suite ",
+  "sys_package": "268e9d5fdbb32300fcf417803996195e",
+  "sys_policy": null,
+  "sys_scope": "268e9d5fdbb32300fcf417803996195e",
+  "sys_update_name": "sys_atf_test_suite_2d8b65dbdbf32300fcf41780399619b1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-02-28 14:41:48"
+}
